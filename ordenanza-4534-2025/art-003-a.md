@@ -1,0 +1,2 @@
+ARTÍCULO 3º - A los fines de la presente Ordenanza, se entiende que las terapias asistidas con caballos no reemplazan a la medicina convencional o tradicional. La Equinoterapia es una metodología terapéutica por sí misma y/o complementaria a otras terapias tradicionales donde se trabaja y se construye a través de la unión de estímulos apropiados con respecto a la progresión motora en función de las etapas de desarrollo del paciente.-
+DE LOS CENTROS DE EQUINOTERAPIA
