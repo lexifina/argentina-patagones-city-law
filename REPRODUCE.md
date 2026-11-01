@@ -200,20 +200,69 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ordenanza-4863-2026` | Ordenanza 4863/2026: Autorícese a Julieta Almansa (DNI 35.633.405),Presidenta de la Asociación Cooperadora y a Karen Mayer, (DNI 47.260.012) Presidenta del Centro de Estudiantes del Instituto Superior de Formación Docente y Técnica N°25 de C | 1 | 2026-11-08 to 2026-11-08 |
 | `ordenanza-4865-2026` | Ordenanza 4865/2026: Anéxese a la presente. Nota N°274HCD/26 Cotización Póliza de Seguro 286481, de la Compañía “La Perseverancia Seguros” y nota de la Dirección de Vialidad Nacional, Distrito Rio Negro, con la debida autorización del corte  | 1 | 2026-11-08 to 2026-11-08 |
 | `ordenanza-4866-2026` | Ordenanza 4866/2026: Autorícese a la Sra. Natalia Viviana Bengoechea, al uso del espacio Público en la (Vereda) calle Comodoro Rivadavia al 238, entre calles Alsina y 7 de Marzo de la Ciudad de Carmen de Patagones: el día 12 de Septiembre de | 1 | 2026-11-08 to 2026-11-08 |
+| `ordenanza-4274-2024` | Ordenanza 4274/2024: Autorícese a la Delegada de Bahía San Blas el uso de espacio público fuera de la oficina de turismo y corte de calle Av. Cmte. Luis Piedra Buena entre calle Malek y calle 37con motivo de realizar los festejos del día de  | 1 | 2024-11-08 to 2024-11-08 |
+| `ordenanza-4284-2024` | Ordenanza 4284/2024: Autorícese a la Iglesia Cristo Responde M.C.Y.M el corte de las calles 7 de Marzo-Guerrico-Bertolone (en la Plazoleta) de Villa del Carmen, el día viernes 27 de septiembre, desde las 18 horas hasta las 21 horas para la r | 1 | 2024-11-08 to 2024-11-08 |
+| `ordenanza-4285-2024` | Ordenanza 4285/2024: Autorícese a la Señora Delegada de Stroeder, Silvana Spasiuk, el uso de espacio público para la celebración de los festejos por el Día de la Primavera en el andén del predio del ferrocarril de la localidad de Stroeder, e | 1 | 2024-11-08 to 2024-11-08 |
+| `ordenanza-4286-2024` | Ordenanza 4286/2024: Autorícese a la Asociación Banco de Pelucas Oncológicas, el uso de espacio público desde las 14.30 del día 05 de octubre, el corte de calles desde la plaza Villarino sobre Comodoro Rivadavia hasta la Plaza 7 de Marzo y c | 1 | 2024-11-08 to 2024-11-08 |
+| `ordenanza-4288-2024` | Ordenanza 4288/2024: Autorícese a Silvina Rust, DNI 2493728, directora de la institución, “Alfonsina Storni”. al uso de espacio público en las calles calle 17 de Agosto hasta Juan Domingo Perón, continuando hasta el Boulevar Patagones y la i | 1 | 2024-12-08 to 2024-12-08 |
+| `ordenanza-4290-2024` | Ordenanza 4290/2024: Autorizase a Milagros Soledad Giménez DNI 41029087, la renovación del uso de espacio público para la instalación de su carro gastronómico en la calle 39 (Punto 3) de la localidad de Bahía San Blas por el término de un añ | 1 | 2024-12-08 to 2024-12-08 |
+| `ordenanza-4295-2024` | Ordenanza 4295/2024: Autorícese la prórroga solicitada por el señor Intendente Municipal Dn. Ricardo E. Marino, hasta el 30 de noviembre del año 2024, para la presentación del Proyecto de Presupuesto 2025.- | 1 | 2024-12-08 to 2024-12-08 |
+| `ordenanza-4293-2024` | Ordenanza 4293/2024: Autorícese al Pastor Fabián Calvo, del Centro Cristiano Restaurador, de esta ciudad, el uso de espacio público y corte de calle, entre Sor Vallese, Julia Dufour y Los Menucos, para el día viernes 15 de noviembre del corr | 1 | 2024-12-29 to 2024-12-29 |
+| `ordenanza-4294-2024` | Ordenanza 4294/2024: Convalídese la Autorización celebrada Ad- Referéndum del Honorable Concejo Deliberante, de fecha 27 de septiembre del año 2024, obrante a fojas 03 (tres), del presente, para uso de espacio público y corte de calles al Pr | 1 | 2024-12-29 to 2024-12-29 |
+| `ordenanza-4305-2025` | Ordenanza 4305/2025: Autorícese el uso de espacio público, vereda de la plaza central y playón municipal, de esa localidad, a la Escuela de Educación Secundaria Nº. 1, Directora de la Escuela de Educación Secundaria Nº. 1 Lic. Mº. Lucrecia P | 1 | 2025-01-26 to 2025-01-26 |
+| `ordenanza-4307-2025` | Ordenanza 4307/2025: Convalídese, la autorización celebrada Ad – Referéndum del Honorable Concejo Deliberante, obrante a fojas 02 (dos) de fecha 22 de diciembre del año 2022, al Fabián Calvo Pastor del Centro Cristiano Restaurador, de esta c | 1 | 2025-01-26 to 2025-01-26 |
+| `ordenanza-4318-2025` | Ordenanza 4318/2025: Condónese la deuda por el automotor del vehículo Furgón Fiat Ducato 2.5D mod. 1997, dominio CUG653, a la Asociación Amigos del Discapacitado entidad de bien público municipal N°129, con funciones desde 1990 en Carmen de  | 1 | 2025-01-26 to 2025-01-26 |
+| `ordenanza-4323-2025` | Ordenanza 4323/2025: Autorícese el uso de espacio público al Centro de Atención Temprana N° 1, de esta ciudad, en la Plaza Piedra buena, para el día 12 de diciembre del año en curso, de 13:00 a 17:00 horas, para la realización de una jornada | 1 | 2025-01-26 to 2025-01-26 |
+| `ordenanza-4325-2025` | Ordenanza 4325/2025: Autorícese a la Comisión de Festejo “Quema de Muñeco” encabezada por el Sr. Lope Sergio al uso del espacio público, ubicado entre el ramal de ingreso a Carmen de Patagones frente al Barrio Villa del Carmen y Avenida Irig | 1 | 2025-01-26 to 2025-01-26 |
+| `ordenanza-4329-2025` | Ordenanza 4329/2025: Autorícese al Grupo de Artesanos de la localidad de Villalonga, el uso de espacio público en el Predio del Ferrocarril, de esa localidad, para las siguientes fechas y meses; días sábados 7, 21 y 28 y domingos 8, 22 y 29, | 1 | 2025-02-12 to 2025-02-12 |
+| `ordenanza-4330-2025` | Ordenanza 4330/2025: Adjuntase al Expediente 4084-184HCD/2024, la historia clínica de Miguel Ángel Malaspina con domicilio en Dr. Baraja 508 de Carmen de Patagones.- | 1 | 2025-02-12 to 2025-02-12 |
+| `ordenanza-4332-2025` | Ordenanza 4332/2025: Autorizase a la ASOCIACION CENTRO EDUCATIVO PARA LA PRODUCION TOTAL Nº 23 IGARZABAL (A.C.E.P.T Nº 23 IGARZABAL), a realizar una Rifa Municipal en un todo de acuerdo a los considerandos de la presente.- | 1 | 2025-02-12 to 2025-02-12 |
+| `ordenanza-4337-2025` | Ordenanza 4337/2025: Cédase la Tenencia Precaria a favor de la ASOCIACION REMANENTE IGLESIA DEL SEÑOR – Entidad de Bien Público Municipal registrada bajo Nº 603, del lote de terreno identificado como: Circunscripción IV – Sección A – Manzana | 1 | 2025-04-06 to 2025-04-06 |
+| `ordenanza-4339-2025` | Ordenanza 4339/2025: Autorícese al señor Raúl Rosemberg, Secretario de Producción, Desarrollo Económico y Comunitario, y a señora Natalia Gorosito Labat, Directora de Cultura, al uso del espacio público en el Parque Piedra Buena para el sába | 1 | 2025-04-06 to 2025-04-06 |
+| `ordenanza-4341-2025` | Ordenanza 4341/2025: Autorícese a la señora Johana Ciotta, Delegada de Bahía San Blas, el uso de espacio público de la Plazoleta del Pescador, en la parte exterior de la oficina de Turismo y en el Paseo de Artesanos para la realización de un | 1 | 2025-04-06 to 2025-04-06 |
+| `ordenanza-4344-2025` | Ordenanza 4344/2025: Autorícese el uso de espacio público, al Pastor Aldo Pier, del Centro Cristiano Patagones, para realizar el evento “Navidad en tu Barrio”, el día 20 de diciembre del corriente año, en la Plaza Ituzaingo, sita en el Barri | 1 | 2025-04-06 to 2025-04-06 |
+| `ordenanza-4346-2025` | Ordenanza 4346/2025: Autorícese el uso de espacio público, en Plaza Villarino, a la señora Mariela Verónica Marín, Coordinadora de la Feria Comunitaria La Comarca Entidad de Bien Público 536, para los días lunes 23 y lunes 30 de diciembre de | 1 | 2025-04-06 to 2025-04-06 |
+| `ordenanza-4350-2025` | Ordenanza 4350/2025: Autorícese el uso de espacio público y corte de calles, el espacio denominado “MALECON”, sito en calles Francisco de Viedma entre Combatientes de Malvinas y Julio Meilan, de esta ciudad, para el día 05 de Enero del año 2 | 1 | 2025-04-06 to 2025-04-06 |
+| `ordenanza-4354-2025` | Ordenanza 4354/2025: Objeto Normativo: La presente ordenanza tiene como objetivo impulsar proyectos e iniciativas habitacionales y de urbanización en el Distrito de Patagones mediante procesos de esfuerzo propio, ayuda mutua y autogestión de | 1 | 2025-04-06 to 2025-04-06 |
+| `ordenanza-4364-2025` | Ordenanza 4364/2025: Autorizase al Departamento Ejecutivo Municipal a reconocer la deuda del Ejercicio 2023, a favor del Proveedor Dr. DIEGO REDOLFI, por la suma de Pesos DOS MILLONES CUATROCIENTOS SESENTA MIL TRECE ($2.460.013,00).- | 1 | 2025-04-06 to 2025-04-06 |
+| `ordenanza-4365-2025` | Ordenanza 4365/2025: Autorizase al Departamento Ejecutivo Municipal a reconocer la deuda por el Ejercicio 2023, a favor del Proveedor URRUTIA JUAN MANUEL, por la suma de Pesos DOSCIENTOS TREINTA Y CUATRO MIL TRESCIENTOS OCHENTA Y NUEVE CON 0 | 1 | 2025-04-06 to 2025-04-06 |
+| `ordenanza-4367-2025` | Ordenanza 4367/2025: Delegar al Poder Ejecutivo Municipal, la facultad de fijar las tarifas de servicio de Taxis, por el termino de 01 (UN) año, a partir del 01 de Enero al 31 de Diciembre del año 2025.- | 1 | 2025-04-06 to 2025-04-06 |
+| `ordenanza-4376-2025` | Ordenanza 4376/2025: Autorícese el uso de espacio público para la realización de la Fiesta de la Soberanía Patagónica edición 2025 en el Predio del Ferrocarril de Carmen de Patagones, ubicado sobre Juan de la Piedra, entre Boulevard Moreno,  | 1 | 2025-05-25 to 2025-05-25 |
+| `ordenanza-4385-2025` | Ordenanza 4385/2025: Autorícese a la Sra. Carriqueo Luisa DNI: 20.124.212 al uso de espacio público en la Plaza Villarino sobre cale Comodoro Rivadavia Nº 495, entre las calles Piedra y San Martín (sector plaza seca) por el término de 01 (un | 1 | 2025-06-08 to 2025-06-08 |
+| `ordenanza-4390-2025` | Ordenanza 4390/2025: Autorizase al Departamento Ejecutivo Municipal, a eximir por única vez el 5% que le corresponde abonar, de acuerdo a lo establecido en la Ordenanza municipal Nº 4282 y Decreto Municipal Nº 2080/24 a la Asociación Coopera | 1 | 2025-06-15 to 2025-06-15 |
+| `ordenanza-4392-2025` | Ordenanza 4392/2025: Autorizase al Departamento Ejecutivo Municipal, a eximir por única vez el 5% que le corresponde abonar, de acuerdo a lo establecido en la Ordenanza Nº 4270, a la Asociación Cooperadora de la Escuela Primaria Nº 4 “Juan B | 1 | 2025-06-15 to 2025-06-15 |
+| `ordenanza-4397-2025` | Ordenanza 4397/2025: Modifíquese el Artículo 1º de la Ordenanza 125/06, el que quedará redactado de la siguiente manera: | 1 | 2025-06-15 to 2025-06-15 |
+| `ordenanza-4399-2025` | Ordenanza 4399/2025: Autorícese el uso de espacio público y corte de calles, al Cura Párroco Patrick Warjri, y al Representante Legal del Instituto San José señor Guillermo Giménez, para la Celebración del Domingo de Ramos, el día Domingo 13 | 1 | 2025-06-15 to 2025-06-15 |
+| `ordenanza-4420-2025` | Ordenanza 4420/2025: Impóngase a la calle conocida como Pasaje I, entre Fernando Ibaurroule y Ruca Malen, entre las Mzns. 56 y 57, el nombre de la destacada, reconocida y querida vecina MARY ZUÑIGA. | 1 | 2025-08-03 to 2025-08-03 |
+| `ordenanza-4421-2025` | Ordenanza 4421/2025: Autorízase al Departamento Ejecutivo Municipal a proceder con la instalación de un reductor de velocidad sobre el tramo final de la calle Don Bosco, en la localidad de Villalonga, conforme a lo establecido los informes t | 1 | 2025-08-03 to 2025-08-03 |
+| `ordenanza-4423-2025` | Ordenanza 4423/2025: Autorizase al señor José Luis Gutiérrez-D.N.I Nº 4.987.409 - con domicilio en calle Chile Nº 109 de esta ciudad, a la renovación del uso del espacio público para la instalación de un carro gastronómico de comidas rápidas | 1 | 2025-08-03 to 2025-08-03 |
+| `ordenanza-4424-2025` | Ordenanza 4424/2025: Convalídese la Autorización celebrada Ad- Referéndum del Honorable Concejo Deliberante, con fecha 22 (veintidós) de mayo del año 2025, a la Directora del Jardín de Infantes N° 908 de la localidad de Bahía San Blas, Profe | 1 | 2025-08-03 to 2025-08-03 |
+| `ordenanza-4425-2025` | Ordenanza 4425/2025: Colóquese la cartelería alusiva a la Ordenanza sobre la calle Roque Sáenz Peña 65, lugar de residencia de la señora Liliana Echenique que ya se encuentra pintado el cordón cuneta de color amarillo. - | 1 | 2025-08-03 to 2025-08-03 |
+| `ordenanza-4426-2025` | Ordenanza 4426/2025: Convalídese la Autorización celebrada Ad- Referéndum del Honorable Concejo Deliberante, con fecha 20 (veinte) de mayo del año 2025, a los señores Joaquín Gutiérrez Galván (Productor) e Iván León Preuss (Director y Guioni | 1 | 2025-08-03 to 2025-08-03 |
+| `ordenanza-4427-2025` | Ordenanza 4427/2025: Convalídese la Autorización celebrada Ad- Referéndum del Honorable Concejo Deliberante, con fecha 15 (quince) de abril del año 2025, obrante a fojas 03 (tres) del presente, al Secretario de Producción Desarrollo Económic | 1 | 2025-08-03 to 2025-08-03 |
+| `ordenanza-4432-2025` | Ordenanza 4432/2025: Convalídese la Autorización celebrada Ad - Referéndum del Honorable Concejo Deliberante, de fecha 14 (catorce) de diciembre del año 2024, obrante a fojas 02 (dos), la autorización solicitada oportunamente por el señor Fa | 1 | 2025-08-03 to 2025-08-03 |
+| `ordenanza-4442-2025` | Ordenanza 4442/2025: Convalídese la Autorización celebrada Ad- Referéndum del Honorable Concejo Deliberante, de fecha 13 (trece) de marzo del año 2025, obrante a fojas 2 (dos), al señor Carlos Eduardo Lacueva D.N.I. 20.965.179, quien solicit | 1 | 2025-08-21 to 2025-08-21 |
+| `ordenanza-4444-2025` | Ordenanza 4444/2025: Convalídese la Autorización celebrada Ad- Referéndum del Honorable Concejo Deliberante, de fecha 08 (ocho) de marzo del año 2025, obrante a fojas 3 (tres), al Secretario de Producción, Desarrollo Económico y Comunitario  | 1 | 2025-08-21 to 2025-08-21 |
+| `ordenanza-4448-2025` | Ordenanza 4448/2025: Convalídese la Autorización celebrada Ad- Referéndum del Honorable Concejo Deliberante, de fecha 27 (veintisiete) de septiembre del año 2024, obrante a fojas 2 (dos) del presente, al Presidente Consejo Pastoral de Carmen | 1 | 2025-08-31 to 2025-08-31 |
+| `ordenanza-4455-2025` | Ordenanza 4455/2025: Autorícese al señor Juan Manuel Asconape D.N.I. 29.726.170, Presidente de la Asociación Civil Rionegrina de Triatlón, al uso de espacio público, para el día domingo 29 de junio del año en curso, desde las 10:00 a 13:00 h | 1 | 2025-08-31 to 2025-08-31 |
+| `ordenanza-4458-2025` | Ordenanza 4458/2025: Convalídese la Autorización celebrada Ad- Referéndum del Honorable Concejo Deliberante, de fecha 13 (trece) de marzo del año 2025, obrante a fojas 5 (cinco) del presente, al Director de Deportes de este Municipio señor L | 1 | 2025-08-31 to 2025-08-31 |
+| `ordenanza-4463-2025` | Ordenanza 4463/2025: Autorizase al Departamento Ejecutivo Municipal a reconocer la deuda del Ejercicio 2023, a favor del Proveedor MARGIOTTA MARIO RODOLFO, por la suma total de Pesos TREINTA Y CINCO MILLONES OCHENTA MIL ($35.080.000,00).- | 1 | 2025-08-31 to 2025-08-31 |
+| `ordenanza-4466-2025` | Ordenanza 4466/2025: Autorizase a la señora Suarez Lucia Miranda, DNI 40.866.375, domiciliada en calle San Martin126 de esta ciudad, quien solicita la habilitación para su carro gastronómico, para realizar la venta de comidas rápidas y venta | 1 | 2025-09-28 to 2025-09-28 |
+| `ordenanza-4475-2025` | Ordenanza 4475/2025: Convalídese la Autorización celebrada Ad-Referéndum del Honorable Concejo Deliberante, de fecha 24 (veinticuatro) de febrero del año 2025, obrante a fojas 02 (dos) del presente, al Pastor Juan Quintrequeo DNI Nº 25907792 | 1 | 2025-09-28 to 2025-09-28 |
 
-The build made 186 commits:
+The build made 235 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 186 | first version of an act |
+| 235 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 4 commits on the branch `futuro`: laws not yet in force on 2026-11-01.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 186 laws in the record.
-- 373 tags.
+- 235 laws in the record.
+- 471 tags.
 
 ## Dates
 
@@ -225,15 +274,15 @@ When a law gives no date of its own, the default rule applies: An ordinance take
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `8c69283d269c79f0790c07851c979ec40e68def72f58386159e99c88d500df11` (895265 bytes).
+- Corpus: sha256 `ad54e586f250898036aa16a04bd591b151a45f73cbf21a71e7c7343032ea9caf` (1121647 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
-186 versions of 186 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
-No second build of this corpus has been compared yet.
+A second build from the same corpus into an empty folder gave identical hashes for all 231 history commits and 470 tags (history tip `40f148d5afaff09a757fe5fbfb04a459841c6e23`).
 
 ## Decisions made by hand
 
