@@ -8,7 +8,7 @@ The text is in Spanish, exactly as the source prints it.
 
 ## What this repository holds
 
-186 ordinances so far, in force from 8 November 2024 to 8 November 2026, each as published in the Boletín Oficial Municipal de Patagones, added in parts.
+235 ordinances so far, in force from 8 November 2024 to 8 November 2026, each as published in the Boletín Oficial Municipal de Patagones, added in parts.
 
 | Folder | Ordinance | History |
 | --- | --- | --- |
@@ -198,6 +198,55 @@ The text is in Spanish, exactly as the source prints it.
 | `ordenanza-4863-2026/` | Ordenanza 4863/2026: Autorícese a Julieta Almansa (DNI 35.633.405),Presidenta de la Asociación Cooperadora y a Karen Mayer, (DNI 47.260.012) Presidenta del Cent… | in force 8 November 2026 |
 | `ordenanza-4865-2026/` | Ordenanza 4865/2026: Anéxese a la presente. Nota N°274HCD/26 Cotización Póliza de Seguro 286481, de la Compañía “La Perseverancia Seguros” y nota de la Direcció… | in force 8 November 2026 |
 | `ordenanza-4866-2026/` | Ordenanza 4866/2026: Autorícese a la Sra. Natalia Viviana Bengoechea, al uso del espacio Público en la (Vereda) calle Comodoro Rivadavia al 238, entre calles Al… | in force 8 November 2026 |
+| `ordenanza-4274-2024/` | Ordenanza 4274/2024: Autorícese a la Delegada de Bahía San Blas el uso de espacio público fuera de la oficina de turismo y corte de calle Av. Cmte. Luis Piedra … | in force 8 November 2024 |
+| `ordenanza-4284-2024/` | Ordenanza 4284/2024: Autorícese a la Iglesia Cristo Responde M.C.Y.M el corte de las calles 7 de Marzo-Guerrico-Bertolone (en la Plazoleta) de Villa del Carmen,… | in force 8 November 2024 |
+| `ordenanza-4285-2024/` | Ordenanza 4285/2024: Autorícese a la Señora Delegada de Stroeder, Silvana Spasiuk, el uso de espacio público para la celebración de los festejos por el Día de l… | in force 8 November 2024 |
+| `ordenanza-4286-2024/` | Ordenanza 4286/2024: Autorícese a la Asociación Banco de Pelucas Oncológicas, el uso de espacio público desde las 14.30 del día 05 de octubre, el corte de calle… | in force 8 November 2024 |
+| `ordenanza-4288-2024/` | Ordenanza 4288/2024: Autorícese a Silvina Rust, DNI 2493728, directora de la institución, “Alfonsina Storni”. al uso de espacio público en las calles calle 17 d… | in force 8 December 2024 |
+| `ordenanza-4290-2024/` | Ordenanza 4290/2024: Autorizase a Milagros Soledad Giménez DNI 41029087, la renovación del uso de espacio público para la instalación de su carro gastronómico e… | in force 8 December 2024 |
+| `ordenanza-4295-2024/` | Ordenanza 4295/2024: Autorícese la prórroga solicitada por el señor Intendente Municipal Dn. Ricardo E. Marino, hasta el 30 de noviembre del año 2024, para la p… | in force 8 December 2024 |
+| `ordenanza-4293-2024/` | Ordenanza 4293/2024: Autorícese al Pastor Fabián Calvo, del Centro Cristiano Restaurador, de esta ciudad, el uso de espacio público y corte de calle, entre Sor … | in force 29 December 2024 |
+| `ordenanza-4294-2024/` | Ordenanza 4294/2024: Convalídese la Autorización celebrada Ad- Referéndum del Honorable Concejo Deliberante, de fecha 27 de septiembre del año 2024, obrante a f… | in force 29 December 2024 |
+| `ordenanza-4305-2025/` | Ordenanza 4305/2025: Autorícese el uso de espacio público, vereda de la plaza central y playón municipal, de esa localidad, a la Escuela de Educación Secundaria… | in force 26 January 2025 |
+| `ordenanza-4307-2025/` | Ordenanza 4307/2025: Convalídese, la autorización celebrada Ad – Referéndum del Honorable Concejo Deliberante, obrante a fojas 02 (dos) de fecha 22 de diciembre… | in force 26 January 2025 |
+| `ordenanza-4318-2025/` | Ordenanza 4318/2025: Condónese la deuda por el automotor del vehículo Furgón Fiat Ducato 2.5D mod. 1997, dominio CUG653, a la Asociación Amigos del Discapacitad… | in force 26 January 2025 |
+| `ordenanza-4323-2025/` | Ordenanza 4323/2025: Autorícese el uso de espacio público al Centro de Atención Temprana N° 1, de esta ciudad, en la Plaza Piedra buena, para el día 12 de dicie… | in force 26 January 2025 |
+| `ordenanza-4325-2025/` | Ordenanza 4325/2025: Autorícese a la Comisión de Festejo “Quema de Muñeco” encabezada por el Sr. Lope Sergio al uso del espacio público, ubicado entre el ramal … | in force 26 January 2025 |
+| `ordenanza-4329-2025/` | Ordenanza 4329/2025: Autorícese al Grupo de Artesanos de la localidad de Villalonga, el uso de espacio público en el Predio del Ferrocarril, de esa localidad, p… | in force 12 February 2025 |
+| `ordenanza-4330-2025/` | Ordenanza 4330/2025: Adjuntase al Expediente 4084-184HCD/2024, la historia clínica de Miguel Ángel Malaspina con domicilio en Dr. Baraja 508 de Carmen de Patago… | in force 12 February 2025 |
+| `ordenanza-4332-2025/` | Ordenanza 4332/2025: Autorizase a la ASOCIACION CENTRO EDUCATIVO PARA LA PRODUCION TOTAL Nº 23 IGARZABAL (A.C.E.P.T Nº 23 IGARZABAL), a realizar una Rifa Munici… | in force 12 February 2025 |
+| `ordenanza-4337-2025/` | Ordenanza 4337/2025: Cédase la Tenencia Precaria a favor de la ASOCIACION REMANENTE IGLESIA DEL SEÑOR – Entidad de Bien Público Municipal registrada bajo Nº 603… | in force 6 April 2025 |
+| `ordenanza-4339-2025/` | Ordenanza 4339/2025: Autorícese al señor Raúl Rosemberg, Secretario de Producción, Desarrollo Económico y Comunitario, y a señora Natalia Gorosito Labat, Direct… | in force 6 April 2025 |
+| `ordenanza-4341-2025/` | Ordenanza 4341/2025: Autorícese a la señora Johana Ciotta, Delegada de Bahía San Blas, el uso de espacio público de la Plazoleta del Pescador, en la parte exter… | in force 6 April 2025 |
+| `ordenanza-4344-2025/` | Ordenanza 4344/2025: Autorícese el uso de espacio público, al Pastor Aldo Pier, del Centro Cristiano Patagones, para realizar el evento “Navidad en tu Barrio”, … | in force 6 April 2025 |
+| `ordenanza-4346-2025/` | Ordenanza 4346/2025: Autorícese el uso de espacio público, en Plaza Villarino, a la señora Mariela Verónica Marín, Coordinadora de la Feria Comunitaria La Comar… | in force 6 April 2025 |
+| `ordenanza-4350-2025/` | Ordenanza 4350/2025: Autorícese el uso de espacio público y corte de calles, el espacio denominado “MALECON”, sito en calles Francisco de Viedma entre Combatien… | in force 6 April 2025 |
+| `ordenanza-4354-2025/` | Ordenanza 4354/2025: Objeto Normativo: La presente ordenanza tiene como objetivo impulsar proyectos e iniciativas habitacionales y de urbanización en el Distrit… | in force 6 April 2025 |
+| `ordenanza-4364-2025/` | Ordenanza 4364/2025: Autorizase al Departamento Ejecutivo Municipal a reconocer la deuda del Ejercicio 2023, a favor del Proveedor Dr. DIEGO REDOLFI, por la sum… | in force 6 April 2025 |
+| `ordenanza-4365-2025/` | Ordenanza 4365/2025: Autorizase al Departamento Ejecutivo Municipal a reconocer la deuda por el Ejercicio 2023, a favor del Proveedor URRUTIA JUAN MANUEL, por l… | in force 6 April 2025 |
+| `ordenanza-4367-2025/` | Ordenanza 4367/2025: Delegar al Poder Ejecutivo Municipal, la facultad de fijar las tarifas de servicio de Taxis, por el termino de 01 (UN) año, a partir del 01… | in force 6 April 2025 |
+| `ordenanza-4376-2025/` | Ordenanza 4376/2025: Autorícese el uso de espacio público para la realización de la Fiesta de la Soberanía Patagónica edición 2025 en el Predio del Ferrocarril … | in force 25 May 2025 |
+| `ordenanza-4385-2025/` | Ordenanza 4385/2025: Autorícese a la Sra. Carriqueo Luisa DNI: 20.124.212 al uso de espacio público en la Plaza Villarino sobre cale Comodoro Rivadavia Nº 495, … | in force 8 June 2025 |
+| `ordenanza-4390-2025/` | Ordenanza 4390/2025: Autorizase al Departamento Ejecutivo Municipal, a eximir por única vez el 5% que le corresponde abonar, de acuerdo a lo establecido en la O… | in force 15 June 2025 |
+| `ordenanza-4392-2025/` | Ordenanza 4392/2025: Autorizase al Departamento Ejecutivo Municipal, a eximir por única vez el 5% que le corresponde abonar, de acuerdo a lo establecido en la O… | in force 15 June 2025 |
+| `ordenanza-4397-2025/` | Ordenanza 4397/2025: Modifíquese el Artículo 1º de la Ordenanza 125/06, el que quedará redactado de la siguiente manera: | in force 15 June 2025 |
+| `ordenanza-4399-2025/` | Ordenanza 4399/2025: Autorícese el uso de espacio público y corte de calles, al Cura Párroco Patrick Warjri, y al Representante Legal del Instituto San José señ… | in force 15 June 2025 |
+| `ordenanza-4420-2025/` | Ordenanza 4420/2025: Impóngase a la calle conocida como Pasaje I, entre Fernando Ibaurroule y Ruca Malen, entre las Mzns. 56 y 57, el nombre de la destacada, re… | in force 3 August 2025 |
+| `ordenanza-4421-2025/` | Ordenanza 4421/2025: Autorízase al Departamento Ejecutivo Municipal a proceder con la instalación de un reductor de velocidad sobre el tramo final de la calle D… | in force 3 August 2025 |
+| `ordenanza-4423-2025/` | Ordenanza 4423/2025: Autorizase al señor José Luis Gutiérrez-D.N.I Nº 4.987.409 - con domicilio en calle Chile Nº 109 de esta ciudad, a la renovación del uso de… | in force 3 August 2025 |
+| `ordenanza-4424-2025/` | Ordenanza 4424/2025: Convalídese la Autorización celebrada Ad- Referéndum del Honorable Concejo Deliberante, con fecha 22 (veintidós) de mayo del año 2025, a la… | in force 3 August 2025 |
+| `ordenanza-4425-2025/` | Ordenanza 4425/2025: Colóquese la cartelería alusiva a la Ordenanza sobre la calle Roque Sáenz Peña 65, lugar de residencia de la señora Liliana Echenique que y… | in force 3 August 2025 |
+| `ordenanza-4426-2025/` | Ordenanza 4426/2025: Convalídese la Autorización celebrada Ad- Referéndum del Honorable Concejo Deliberante, con fecha 20 (veinte) de mayo del año 2025, a los s… | in force 3 August 2025 |
+| `ordenanza-4427-2025/` | Ordenanza 4427/2025: Convalídese la Autorización celebrada Ad- Referéndum del Honorable Concejo Deliberante, con fecha 15 (quince) de abril del año 2025, obrant… | in force 3 August 2025 |
+| `ordenanza-4432-2025/` | Ordenanza 4432/2025: Convalídese la Autorización celebrada Ad - Referéndum del Honorable Concejo Deliberante, de fecha 14 (catorce) de diciembre del año 2024, o… | in force 3 August 2025 |
+| `ordenanza-4442-2025/` | Ordenanza 4442/2025: Convalídese la Autorización celebrada Ad- Referéndum del Honorable Concejo Deliberante, de fecha 13 (trece) de marzo del año 2025, obrante … | in force 21 August 2025 |
+| `ordenanza-4444-2025/` | Ordenanza 4444/2025: Convalídese la Autorización celebrada Ad- Referéndum del Honorable Concejo Deliberante, de fecha 08 (ocho) de marzo del año 2025, obrante a… | in force 21 August 2025 |
+| `ordenanza-4448-2025/` | Ordenanza 4448/2025: Convalídese la Autorización celebrada Ad- Referéndum del Honorable Concejo Deliberante, de fecha 27 (veintisiete) de septiembre del año 202… | in force 31 August 2025 |
+| `ordenanza-4455-2025/` | Ordenanza 4455/2025: Autorícese al señor Juan Manuel Asconape D.N.I. 29.726.170, Presidente de la Asociación Civil Rionegrina de Triatlón, al uso de espacio púb… | in force 31 August 2025 |
+| `ordenanza-4458-2025/` | Ordenanza 4458/2025: Convalídese la Autorización celebrada Ad- Referéndum del Honorable Concejo Deliberante, de fecha 13 (trece) de marzo del año 2025, obrante … | in force 31 August 2025 |
+| `ordenanza-4463-2025/` | Ordenanza 4463/2025: Autorizase al Departamento Ejecutivo Municipal a reconocer la deuda del Ejercicio 2023, a favor del Proveedor MARGIOTTA MARIO RODOLFO, por … | in force 31 August 2025 |
+| `ordenanza-4466-2025/` | Ordenanza 4466/2025: Autorizase a la señora Suarez Lucia Miranda, DNI 40.866.375, domiciliada en calle San Martin126 de esta ciudad, quien solicita la habilitac… | in force 28 September 2025 |
+| `ordenanza-4475-2025/` | Ordenanza 4475/2025: Convalídese la Autorización celebrada Ad-Referéndum del Honorable Concejo Deliberante, de fecha 24 (veinticuatro) de febrero del año 2025, … | in force 28 September 2025 |
 
 ## Source
 
