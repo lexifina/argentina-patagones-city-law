@@ -1,0 +1,8 @@
+# Ordenanza 4355/2025: Cúmplase, regístrese, pase al Departamento Ejecutivo para su promulgación, comuníquese a quienes corresponda. Una vez cumplimentada la Ordenanza, gírese al Honorable Concejo Deliberante el Decreto de Promulgación.-
+
+Ordenanza 4355/2025 · 1 versions, from 2025-04-06 (latest in force: 2025-04-06) · <https://sibom.slyt.gba.gob.ar/bulletins/12407/contents/2190250>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Artículo 2 | [art-002.md](art-002.md) | 0 |  |
+| Encabezado | [encabezado.md](encabezado.md) | 0 |  |

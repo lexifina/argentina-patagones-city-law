@@ -1,0 +1,11 @@
+{
+  "path": "ar-b-patagones",
+  "code": "AR-B-PATAGONES",
+  "name": "Patagones",
+  "level": "municipality",
+  "parent": "ar-b",
+  "repo": "https://github.com/lexifina/argentina-patagones-city-law",
+  "build": "built: municipal ordinances (186 ordinances, 186 versions) from https://sibom.slyt.gba.gob.ar/cities/92",
+  "language": "es",
+  "sources": 1
+}
